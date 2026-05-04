@@ -1,0 +1,27 @@
+{
+  "name": "notes-manager-rest-api",
+  "version": "1.0.0",
+  "description": "Note Manager REST API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwambao/notes-manager-REST-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mwambao/notes-manager-REST-API/issues"
+  },
+  "homepage": "https://github.com/mwambao/notes-manager-REST-API#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
